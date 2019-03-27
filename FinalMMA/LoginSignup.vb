@@ -20,6 +20,7 @@ Public Class Login
         'read file with input of text box
         Try
             Using myreader As New Microsoft.VisualBasic.FileIO.TextFieldParser(LoginUsernameBox.Text + ".dat")
+                ErrorMessage.Hide()
                 myreader.TextFieldType = FileIO.FieldType.Delimited
                 myreader.SetDelimiters("|")
                 Dim currentrow As String()
