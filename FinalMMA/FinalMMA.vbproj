@@ -72,11 +72,29 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Expenses.Designer.vb">
+      <DependentUpon>Expenses.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Expenses.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Income.Designer.vb">
+      <DependentUpon>Income.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Income.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="LoginSignup.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="LoginSignup.Designer.vb">
       <DependentUpon>LoginSignup.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenu.Designer.vb">
+      <DependentUpon>MainMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenu.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -96,8 +114,17 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Expenses.resx">
+      <DependentUpon>Expenses.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Income.resx">
+      <DependentUpon>Income.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="LoginSignup.resx">
       <DependentUpon>LoginSignup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>

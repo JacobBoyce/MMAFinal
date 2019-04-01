@@ -10,3 +10,14 @@ C:\Users\boyse\OneDrive\Documents\School\UIDesign\FinalMMA\FinalMMA\obj\Debug\Fi
 C:\Users\boyse\OneDrive\Documents\School\UIDesign\FinalMMA\FinalMMA\obj\Debug\FinalMMA.xml
 C:\Users\boyse\OneDrive\Documents\School\UIDesign\FinalMMA\FinalMMA\obj\Debug\FinalMMA.pdb
 C:\Users\boyse\OneDrive\Documents\School\UIDesign\FinalMMA\FinalMMA\obj\Debug\FinalMMA.vbprojResolveAssemblyReference.cache
+C:\Users\dtafo\Source\Repos\MMAFinal4\FinalMMA\bin\Debug\FinalMMA.exe.config
+C:\Users\dtafo\Source\Repos\MMAFinal4\FinalMMA\obj\Debug\FinalMMA.exe
+C:\Users\dtafo\Source\Repos\MMAFinal4\FinalMMA\obj\Debug\FinalMMA.xml
+C:\Users\dtafo\Source\Repos\MMAFinal4\FinalMMA\obj\Debug\FinalMMA.pdb
+C:\Users\dtafo\Source\Repos\MMAFinal4\FinalMMA\bin\Debug\FinalMMA.exe
+C:\Users\dtafo\Source\Repos\MMAFinal4\FinalMMA\bin\Debug\FinalMMA.pdb
+C:\Users\dtafo\Source\Repos\MMAFinal4\FinalMMA\bin\Debug\FinalMMA.xml
+C:\Users\dtafo\Source\Repos\MMAFinal4\FinalMMA\obj\Debug\FinalMMA.vbprojResolveAssemblyReference.cache
+C:\Users\dtafo\Source\Repos\MMAFinal4\FinalMMA\obj\Debug\FinalMMA.Login.resources
+C:\Users\dtafo\Source\Repos\MMAFinal4\FinalMMA\obj\Debug\FinalMMA.Resources.resources
+C:\Users\dtafo\Source\Repos\MMAFinal4\FinalMMA\obj\Debug\FinalMMA.vbproj.GenerateResource.Cache
