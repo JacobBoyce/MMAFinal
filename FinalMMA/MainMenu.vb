@@ -10,4 +10,8 @@
     Private Sub IncomeButton_Click(sender As Object, e As EventArgs) Handles IncomeButton.Click
         Me.Visible = False
     End Sub
+
+    Private Sub MonthCalendar1_DateChanged(sender As Object, e As DateRangeEventArgs) Handles MonthCalendar1.DateChanged
+
+    End Sub
 End Class
