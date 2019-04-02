@@ -4,10 +4,12 @@
     End Sub
 
     Private Sub ExpensesButton_Click(sender As Object, e As EventArgs) Handles ExpensesButton.Click
+        Expenses.Show()
         Me.Visible = False
     End Sub
 
     Private Sub IncomeButton_Click(sender As Object, e As EventArgs) Handles IncomeButton.Click
+        Income.Show()
         Me.Visible = False
     End Sub
 

@@ -30,14 +30,13 @@ Public Class Login
                 curUser.password = currentrow(1)
                 curUser.payFreq = currentrow(2)
                 curUser.numBills = currentrow(3)
-
-                input.Text = LoginPasswordBox.Text
-                userPass.Text = curUser.password
+                'input.Text = LoginPasswordBox.Text
+                'userPass.Text = curUser.password
 
                 If (StrComp(LoginPasswordBox.Text, curUser.password, vbTextCompare) = 0) Then
                     ErrorMessage.Hide()
                     curUser.bills = New Bill(curUser.numBills) {}
-                    Dim I As Integer = curUser.numBills
+                    Dim I As Integer = 0
                     'read in all bills
                     While Not myreader.EndOfData
                         currentrow = myreader.ReadFields
@@ -46,6 +45,8 @@ Public Class Login
                         curUser.bills(I).due = currentrow(2)
                         I = I + 1
                     End While
+                    MainMenu.Show()
+                    Me.Hide()
                 Else
                     ErrorMessage.Show()
                     ErrorMessage.Text = "Incorrect Password. Please try again"

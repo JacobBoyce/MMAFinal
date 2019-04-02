@@ -4,6 +4,7 @@
     End Sub
 
     Private Sub MainMenuButton_Click(sender As Object, e As EventArgs) Handles MainMenuButton.Click
+        MainMenu.Show()
         Me.Visible = False
     End Sub
 End Class
