@@ -23,9 +23,7 @@ Partial Class Expenses
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.MainMenuButton = New System.Windows.Forms.Button()
-        Me.PreviousButton = New System.Windows.Forms.Button()
         Me.ExpensesLabel = New System.Windows.Forms.Label()
-        Me.NextButton = New System.Windows.Forms.Button()
         Me.NameLabel = New System.Windows.Forms.Label()
         Me.AmountLabel = New System.Windows.Forms.Label()
         Me.DueLabel = New System.Windows.Forms.Label()
@@ -52,16 +50,6 @@ Partial Class Expenses
         Me.MainMenuButton.Text = "Main Menu"
         Me.MainMenuButton.UseVisualStyleBackColor = True
         '
-        'PreviousButton
-        '
-        Me.PreviousButton.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.PreviousButton.Location = New System.Drawing.Point(12, 207)
-        Me.PreviousButton.Name = "PreviousButton"
-        Me.PreviousButton.Size = New System.Drawing.Size(261, 69)
-        Me.PreviousButton.TabIndex = 1
-        Me.PreviousButton.Text = "Previous"
-        Me.PreviousButton.UseVisualStyleBackColor = True
-        '
         'ExpensesLabel
         '
         Me.ExpensesLabel.AutoSize = True
@@ -71,16 +59,6 @@ Partial Class Expenses
         Me.ExpensesLabel.Size = New System.Drawing.Size(332, 78)
         Me.ExpensesLabel.TabIndex = 2
         Me.ExpensesLabel.Text = "Expenses"
-        '
-        'NextButton
-        '
-        Me.NextButton.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.NextButton.Location = New System.Drawing.Point(1366, 208)
-        Me.NextButton.Name = "NextButton"
-        Me.NextButton.Size = New System.Drawing.Size(318, 68)
-        Me.NextButton.TabIndex = 3
-        Me.NextButton.Text = "Next"
-        Me.NextButton.UseVisualStyleBackColor = True
         '
         'NameLabel
         '
@@ -206,9 +184,7 @@ Partial Class Expenses
         Me.Controls.Add(Me.DueLabel)
         Me.Controls.Add(Me.AmountLabel)
         Me.Controls.Add(Me.NameLabel)
-        Me.Controls.Add(Me.NextButton)
         Me.Controls.Add(Me.ExpensesLabel)
-        Me.Controls.Add(Me.PreviousButton)
         Me.Controls.Add(Me.MainMenuButton)
         Me.MaximumSize = New System.Drawing.Size(1728, 1171)
         Me.MinimumSize = New System.Drawing.Size(1728, 1171)
@@ -222,9 +198,7 @@ Partial Class Expenses
     End Sub
 
     Friend WithEvents MainMenuButton As Button
-    Friend WithEvents PreviousButton As Button
     Friend WithEvents ExpensesLabel As Label
-    Friend WithEvents NextButton As Button
     Friend WithEvents NameLabel As Label
     Friend WithEvents AmountLabel As Label
     Friend WithEvents DueLabel As Label
