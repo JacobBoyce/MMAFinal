@@ -54,3 +54,7 @@ C:\Users\dtafo\Source\Repos\MMAFinalWithDatabase\FinalMMA\bin\Debug\FinalMMA.exe
 C:\Users\dtafo\Source\Repos\MMAFinalWithDatabase\FinalMMA\obj\Debug\FinalMMA.exe
 C:\Users\dtafo\Source\Repos\MMAFinalWithDatabase\FinalMMA\obj\Debug\FinalMMA.xml
 C:\Users\dtafo\Source\Repos\MMAFinalWithDatabase\FinalMMA\obj\Debug\FinalMMA.pdb
+C:\Users\dtafo\Source\Repos\MMAFinalCloneWithDatabase\FinalMMA\bin\Debug\FinalMMA.exe.config
+C:\Users\dtafo\Source\Repos\MMAFinalCloneWithDatabase\FinalMMA\obj\Debug\FinalMMA.exe
+C:\Users\dtafo\Source\Repos\MMAFinalCloneWithDatabase\FinalMMA\obj\Debug\FinalMMA.xml
+C:\Users\dtafo\Source\Repos\MMAFinalCloneWithDatabase\FinalMMA\obj\Debug\FinalMMA.pdb
