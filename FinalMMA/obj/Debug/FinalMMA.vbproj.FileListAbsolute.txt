@@ -50,3 +50,7 @@ C:\Users\dtafo\Source\Repos\MMAFinalClone\FinalMMA\obj\Debug\FinalMMA.Login.reso
 C:\Users\dtafo\Source\Repos\MMAFinalClone\FinalMMA\obj\Debug\FinalMMA.MainMenu.resources
 C:\Users\dtafo\Source\Repos\MMAFinalClone\FinalMMA\obj\Debug\FinalMMA.Resources.resources
 C:\Users\dtafo\Source\Repos\MMAFinalClone\FinalMMA\obj\Debug\FinalMMA.vbproj.GenerateResource.Cache
+C:\Users\dtafo\Source\Repos\MMAFinalWithDatabase\FinalMMA\bin\Debug\FinalMMA.exe.config
+C:\Users\dtafo\Source\Repos\MMAFinalWithDatabase\FinalMMA\obj\Debug\FinalMMA.exe
+C:\Users\dtafo\Source\Repos\MMAFinalWithDatabase\FinalMMA\obj\Debug\FinalMMA.xml
+C:\Users\dtafo\Source\Repos\MMAFinalWithDatabase\FinalMMA\obj\Debug\FinalMMA.pdb
