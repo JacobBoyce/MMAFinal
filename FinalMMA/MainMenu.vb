@@ -1,6 +1,8 @@
 ﻿Public Class MainMenu
     Private Sub MainMenu_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        FormatWindows.FormatWindow(FindForm)
         Me.Visible = False
+
     End Sub
 
     Private Sub ExpensesButton_Click(sender As Object, e As EventArgs) Handles ExpensesButton.Click

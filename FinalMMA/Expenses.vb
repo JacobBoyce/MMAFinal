@@ -1,5 +1,6 @@
 ﻿Public Class Expenses
     Private Sub Expenses_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        FormatWindows.FormatWindow(FindForm)
         Me.Visible = False
     End Sub
 

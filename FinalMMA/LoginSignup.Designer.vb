@@ -121,7 +121,7 @@ Partial Class Login
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink
-        Me.ClientSize = New System.Drawing.Size(642, 445)
+        Me.ClientSize = New System.Drawing.Size(1184, 761)
         Me.Controls.Add(Me.ErrorMessage)
         Me.Controls.Add(Me.LoginL)
         Me.Controls.Add(Me.PasswordL)
@@ -131,10 +131,11 @@ Partial Class Login
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.SignupB)
         Me.Controls.Add(Me.LoginB)
-        Me.MaximumSize = New System.Drawing.Size(658, 514)
+        Me.Location = New System.Drawing.Point(200, 100)
+        Me.MaximumSize = New System.Drawing.Size(2000, 2000)
         Me.MinimumSize = New System.Drawing.Size(658, 458)
         Me.Name = "Login"
-        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.Manual
         Me.Text = "MMA - Login"
         Me.ResumeLayout(False)
         Me.PerformLayout()

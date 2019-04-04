@@ -1,13 +1,13 @@
 ﻿Imports System.IO
 Public Class Login
-    Structure CurrentUser
+    Public Structure CurrentUser
         Public username As String
         Public password As String
         Public payFreq As String
         Public numBills As Integer
         Public bills As Bill()
     End Structure
-    Structure Bill
+    Public Structure Bill
         Public name As String
         Public amount As Integer
         Public due As Integer
@@ -62,5 +62,7 @@ Public Class Login
     'when form loads
     Private Sub Login_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         ErrorMessage.Hide()
+        FormatWindows.FormatWindow(Me)
     End Sub
+
 End Class
