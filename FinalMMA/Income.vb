@@ -6,6 +6,6 @@
 
     Private Sub MainMenuButton_Click(sender As Object, e As EventArgs) Handles MainMenuButton.Click
         Me.Hide()
-        MainMenu.Show()
+        'MainMenu.Show()
     End Sub
 End Class

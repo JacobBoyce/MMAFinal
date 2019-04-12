@@ -45,7 +45,7 @@ Public Class Login
                         curUser.bills(I).due = currentrow(2)
                         I = I + 1
                     End While
-                    MainMenu.Show()
+                    'MainMenu.Show()
                     Me.Hide()
                 Else
                     ErrorMessage.Show()

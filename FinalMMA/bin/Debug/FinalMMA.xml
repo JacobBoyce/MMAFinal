@@ -22,5 +22,25 @@ FinalMMA
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:FinalMMA.My.Resources.Resources.glove1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalMMA.My.Resources.Resources.glove2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalMMA.My.Resources.Resources.glove3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalMMA.My.Resources.Resources.panel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 </members>
 </doc>
