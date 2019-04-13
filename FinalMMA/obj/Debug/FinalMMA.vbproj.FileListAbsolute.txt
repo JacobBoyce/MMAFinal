@@ -118,3 +118,15 @@ D:\User Interface Design\MMA\ProjectMMA\FinalMMA\obj\Debug\FinalMMA.vbproj.Gener
 D:\User Interface Design\MMA\ProjectMMA\FinalMMA\obj\Debug\FinalMMA.exe
 D:\User Interface Design\MMA\ProjectMMA\FinalMMA\obj\Debug\FinalMMA.xml
 D:\User Interface Design\MMA\ProjectMMA\FinalMMA\obj\Debug\FinalMMA.pdb
+C:\Users\aaron\Desktop\MMAFinal\FinalMMA\obj\Debug\FinalMMA.vbprojAssemblyReference.cache
+C:\Users\aaron\Desktop\MMAFinal\FinalMMA\obj\Debug\Interop.CALENDARLib.dll
+C:\Users\aaron\Desktop\MMAFinal\FinalMMA\obj\Debug\AxInterop.CALENDARLib.dll
+C:\Users\aaron\Desktop\MMAFinal\FinalMMA\obj\Debug\FinalMMA.vbproj.ResolveComReference.cache
+C:\Users\aaron\Desktop\MMAFinal\FinalMMA\obj\Debug\FinalMMA.Expenses.resources
+C:\Users\aaron\Desktop\MMAFinal\FinalMMA\obj\Debug\FinalMMA.Income.resources
+C:\Users\aaron\Desktop\MMAFinal\FinalMMA\obj\Debug\FinalMMA.Login.resources
+C:\Users\aaron\Desktop\MMAFinal\FinalMMA\obj\Debug\FinalMMA.Separator.resources
+C:\Users\aaron\Desktop\MMAFinal\FinalMMA\obj\Debug\FinalMMA.vbproj.GenerateResource.cache
+C:\Users\aaron\Desktop\MMAFinal\FinalMMA\obj\Debug\FinalMMA.exe
+C:\Users\aaron\Desktop\MMAFinal\FinalMMA\obj\Debug\FinalMMA.xml
+C:\Users\aaron\Desktop\MMAFinal\FinalMMA\obj\Debug\FinalMMA.pdb
