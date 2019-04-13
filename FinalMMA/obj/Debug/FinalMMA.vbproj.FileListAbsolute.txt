@@ -108,3 +108,13 @@ C:\Users\boyse\Source\Repos\MMAFinal5\FinalMMA\bin\Debug\FinalMMA.exe.config
 C:\Users\boyse\Source\Repos\MMAFinal5\FinalMMA\bin\Debug\FinalMMA.exe
 C:\Users\boyse\Source\Repos\MMAFinal5\FinalMMA\bin\Debug\FinalMMA.pdb
 C:\Users\boyse\Source\Repos\MMAFinal5\FinalMMA\bin\Debug\FinalMMA.xml
+D:\User Interface Design\MMA\ProjectMMA\FinalMMA\obj\Debug\FinalMMA.vbprojResolveAssemblyReference.cache
+D:\User Interface Design\MMA\ProjectMMA\FinalMMA\obj\Debug\FinalMMA.vbproj.ResolveComReference.cache
+D:\User Interface Design\MMA\ProjectMMA\FinalMMA\obj\Debug\FinalMMA.Expenses.resources
+D:\User Interface Design\MMA\ProjectMMA\FinalMMA\obj\Debug\FinalMMA.Income.resources
+D:\User Interface Design\MMA\ProjectMMA\FinalMMA\obj\Debug\FinalMMA.Login.resources
+D:\User Interface Design\MMA\ProjectMMA\FinalMMA\obj\Debug\FinalMMA.Separator.resources
+D:\User Interface Design\MMA\ProjectMMA\FinalMMA\obj\Debug\FinalMMA.vbproj.GenerateResource.Cache
+D:\User Interface Design\MMA\ProjectMMA\FinalMMA\obj\Debug\FinalMMA.exe
+D:\User Interface Design\MMA\ProjectMMA\FinalMMA\obj\Debug\FinalMMA.xml
+D:\User Interface Design\MMA\ProjectMMA\FinalMMA\obj\Debug\FinalMMA.pdb
